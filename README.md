@@ -1,6 +1,6 @@
 # DashboardJuegosOlimpicos
 
-Este proyecto es un dashboard iteractivo que muestra los resultados de los distintos países y atletas a lo largo de la historia de los Juegos Olímpicos.
+Este proyecto es un dashboard interactivo que muestra los resultados de los distintos países y atletas a lo largo de la historia de los Juegos Olímpicos.
 
 El dashboard está realizado usando PowerBi, y puede verse una muestra en el fichero "Dashboard_Sample.pdf".
 
